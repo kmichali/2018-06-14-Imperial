@@ -229,7 +229,7 @@ eventbrite: "45722566427"          # optional: alphanumeric key for Eventbrite r
 <h2 id="setup">Class online document</h2>
 
 <p id="collaborative_notes">
-  <b>We will use this <a href=" http://pad.software-carpentry.org/2018-03-19-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
+  <b>We will use this <a href=" http://pad.software-carpentry.org/2018-06-14-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
 </p>
 
 <hr/>
